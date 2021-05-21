@@ -46,7 +46,7 @@ service-identity==16.0.0
 ssh-import-id==5.7
 systemd-python==234
 tensorboard==1.14.0
-tensorflow==2.0.0b1
+tensorflow==2.5.0rc0
 tensorflow-estimator==1.14.0
 Twisted==17.9.0
 ufw==0.36

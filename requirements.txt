@@ -144,7 +144,7 @@ configobj==5.0.6
 constantly==15.1.0
 cryptography==2.1.4
 distro-info==0.18ubuntu0.18.04.1
-Django==2.0.2
+Django==2.2.24
   - pytz [required: Any, installed: 2019.3]
 git-remote-codecommit==1.0
   - botocore [required: >=1.10.4, installed: 1.15.3]

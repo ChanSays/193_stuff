@@ -734,7 +734,7 @@ pipdeptree==0.13.2
 pyasn1-modules==0.2.1
 pycrypto==2.6.1
 pygobject==3.26.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 pylint-django==0.8.0
   - pylint [required: >=1.8, installed: 1.8.1]
     - astroid [required: <2.0, installed: 1.6.6]
